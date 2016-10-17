@@ -1,4 +1,4 @@
-# VHDL_Circuit
+# VHDL Circuit
 Circuito em VHDL feito para a disciplina de Sistemas Digitais.
 
 #### Divisão do circuito em componentes, as posições estão na forma [coluna, linha]:
